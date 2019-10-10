@@ -100,7 +100,9 @@
 
 .btnbox {
 
-  height: calc(1rem*2);
+  height: 50px;
+  clear: both;
+  
   button{
     border-radius: 18px;
     outline:none;
